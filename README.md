@@ -1,1 +1,11 @@
 # CS-255
+
+The DriverPass project was centered around a cloud-based web application. This application was developed for users learning how to drive. On the website these students could take the online course materials, schedule in-person driving sessions, and attend in-person training upon request. All of these details and more were defined based on requirement collection with the DriverPass team.
+
+Something I did particularly well with was defining use cases. The initial requirement collection document provided to us was disorganized and lengthy. It took time to list out the requirements, organize them, and then define them in diagrams from a user's perspective. 
+
+I would say if I was do the projects all over again I would focus on more of the symbols that UML diagrams utilize. I tried to use many of the ones in the examples and videos I saw, but I know that there are more options available. I feel like once I fully understand all of the symbols and their uses, it will help me a lot in practice.
+
+It is important to consider the user's needs because the goal of every project is the value the client receives from the service. In order to do this I had to consistently think about the user's perspective in my solution. How they interact with the system, their options and abilities within the application, etc. The best way to do this was with use cases and diagrams that helped list out the steps they would take as an end user. Using my own experiences as reference, I could better identify what they would need to be satisfied with the application.
+
+In order to design the software, I had to first list out all of the things DriverPass was looking for. Once that list was established, I could start thinking about how to solution those ideas. Each requirement could be organized into either a functional or non-functional requirement. I focused on the functional requirements first since they were necessary to the design and then gave options to allow that functionality. For example, DriverPass was looking for a cloud-provider, so the budget, security, and back-up expectations needed to be defined. Organizing the requirements helped me a lot with understanding me steps of approach and is something I will continue using in the future.
